@@ -20,6 +20,7 @@
 #include "alloc.h"
 #include "intio.h"
 #include "open.h"
+#include "string.h"
 #include "mod2sparse.h"
 #include "mod2dense.h"
 #include "mod2convert.h"
